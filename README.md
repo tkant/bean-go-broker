@@ -37,8 +37,6 @@ Usage of beanstalk-broker:
    -tubes=[default]: Comma separated list of tubes.
    -php=/usr/bin/php: PHP Binary to use
    -php-ini=/etc/php.ini: ini file to use for PHP configuration
-   -instance-root=/var/www/html: Path to directory where all instances are located
-   -cluster-root=/opt/cluster: Path to directory where cluster is located
    -controller=/Core/Job/Console: Controller that will handle the jobs
 
 # Watch three specific tubes.
