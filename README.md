@@ -1,4 +1,4 @@
-beanstalk broker
+beanstalk Go-Lang broker
 ========
 
 Beanstalk Broker handles beanstalk jobs and forward them to NOVO console controller.
