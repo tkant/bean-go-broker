@@ -1,0 +1,31 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "wG4Q6ZLkNAnF36nFdoTaQoY48RE=",
+			"path": "github.com/kr/beanstalk",
+			"revision": "e99e1a384e4ace0401329ea37f702a2904990f91",
+			"revisionTime": "2015-09-23T20:56:05Z"
+		},
+		{
+			"checksumSHA1": "V8karzcTIpqi4yarvOCqXnGWbvo=",
+			"path": "github.com/sirupsen/logrus",
+			"revision": "4b6ea7319e214d98c938f12692336f7ca9348d6b",
+			"revisionTime": "2016-03-17T14:11:10Z"
+		},
+		{
+			"checksumSHA1": "GWrXNxz8aA6pVZ/oRxYqy7Zcor8=",
+			"path": "github.com/wulijun/go-php-serialize/phpserialize",
+			"revision": "bfe692b0100e148e84780172435c1178aa901803",
+			"revisionTime": "2013-11-04T12:52:40Z"
+		},
+		{
+			"checksumSHA1": "NFciPxQ6MYS7CfmqAu3Cs0bsKpw=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "d9157a9621b69ad1d8d77a1933590c416593f24f",
+			"revisionTime": "2015-02-01T16:04:03Z"
+		}
+	],
+	"rootPath": "github.com/kayako/beanstalk-broker"
+}
